@@ -37,9 +37,8 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: _configuration.yml
+  path: _config.yml
   label: Configuration
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
