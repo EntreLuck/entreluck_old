@@ -3,6 +3,7 @@ short_title: EntreLuck
 description: 
 baseurl:
 permalink: "/:path/"
+incremental: true
 defaults:
   - scope:
       path: ""
@@ -31,3 +32,4 @@ plugins:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+  - jekyll-seo-tag
