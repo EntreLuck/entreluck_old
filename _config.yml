@@ -33,7 +33,5 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-seo-tag
-  - jekyll-purgecss
-css_dir: "<css_dir>" # defaults to "css"
 
 
