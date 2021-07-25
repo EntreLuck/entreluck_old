@@ -1,7 +1,7 @@
 ---
 title: EntreLuck
 banner_image: "/uploads/2021/07/24/logo.png"
-layout: landing-page
+layout: building
 heading: ''
 partners:
 - "/uploads/2017/11/13/stem.png"
